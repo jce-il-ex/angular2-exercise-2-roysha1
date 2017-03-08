@@ -9,16 +9,16 @@ export class NavMenuComponent implements OnInit {
 
   myList = [{
     id : 1,
-    name : 'home'
+    name : 'Home'
   },{
     id : 2,
-    name : 'contact'
+    name : 'Contact'
   },{
     id : 3,
-    name : 'just page'
+    name : 'Featuers'
   },{
     id : 4,
-    name : 'page 2'
+    name : 'Sign In'
   }
   ]
 
