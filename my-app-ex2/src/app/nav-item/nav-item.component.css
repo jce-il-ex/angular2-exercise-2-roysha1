@@ -3,9 +3,12 @@
     text-align: center;
     margin: 2%;
     padding: 2%;
-    line-height: 100px;
-    background-color: yellow;
+    line-height: 30px;
+    background-color:#ffff66;
     float : left;
-
-
+}
+.menuitem:hover{
+    background-color:#ffff19;
+    height: 23%;
+    line-height: 40px;
 }

@@ -1,0 +1,13 @@
+.cont{
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    padding-top: 0px;
+}
+
+.center_tag{
+    margin: auto;
+    width: 400px;
+}
+
