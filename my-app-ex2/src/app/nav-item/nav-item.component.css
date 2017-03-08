@@ -1,0 +1,11 @@
+.menuitem{
+    height : 20%;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    line-height: 100px;
+    background-color: yellow;
+    float : left;
+
+
+}
