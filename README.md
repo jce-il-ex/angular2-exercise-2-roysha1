@@ -1,4 +1,5 @@
-#Site Address:<a href="https://ex2-angular.firebaseapp.com/" target="_blank">https://ex2-angular.firebaseapp.com/</a>
+#Site Address:[https://ex2-angular.firebaseapp.com/](https://ex2-angular.firebaseapp.com/){:target="_blank"}
+<a href="https://ex2-angular.firebaseapp.com/" target="_blank">https://ex2-angular.firebaseapp.com/</a>
 [https://ex2-angular.firebaseapp.com/](https://ex2-angular.firebaseapp.com/)
 
 #Submission date:
