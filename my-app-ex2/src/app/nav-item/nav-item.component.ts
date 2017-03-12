@@ -15,6 +15,6 @@ export class NavItemComponent implements OnInit {
   }
 
   myFunc(){
-    console.log("moving to " + this.item.name + " page");
+    alert("moving to " + this.item.name + " page");
   }
   }
